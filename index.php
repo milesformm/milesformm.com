@@ -190,6 +190,11 @@
             .location-map iframe {
                 pointer-events: none;
             }
+            .tshirtnote {
+                padding-top: 0;
+                margin-bottom: 12px;
+                font-size: 12px;
+            }
             
 
         </style>
@@ -221,6 +226,7 @@
             <div id="content">
                 <div id="right">
                     <div id="action-buttons" class="bubble with-margin-bottom">
+                        <div class="tshirtnote">Note: T-shirt orders are no longer available.</div>
                         <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2015/register" class="button">Register to run/walk!</a>
                         <!-- <div class="small-text"><br><strong>PLEASE NOTE-</strong> T-SHIRTS WILL NOT BE AVAILABLE FOR REGISTRATIONS MADE AFTER MIDNIGHT SEPTEMBER 25.<br><br>
                         * CONTINUE TO REGISTER EITHER AS <strong>INDIVIDUALS (No T-Shirt)</strong> or <strong>TEAM (No T-Shirt)</strong>.<br></div> -->
