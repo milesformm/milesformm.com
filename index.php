@@ -2,6 +2,9 @@
     <head>
         <title>Eastern Iowa Miles for Myeloma</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <script>
+          var raceDate = ;
+        </script>
         <style type="text/css">
             * { box-sizing: border-box }
             body {
@@ -226,7 +229,7 @@
             <div id="content">
                 <div id="right">
                     <div id="action-buttons" class="bubble with-margin-bottom">
-                        <div class="tshirtnote">Note: T-shirt orders are no longer available.</div>
+                        <!-- <div class="tshirtnote">Note: T-shirt orders are no longer available.</div> -->
                         <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2015/register" class="button">Register to run/walk!</a>
                         <!-- <div class="small-text"><br><strong>PLEASE NOTE-</strong> T-SHIRTS WILL NOT BE AVAILABLE FOR REGISTRATIONS MADE AFTER MIDNIGHT SEPTEMBER 25.<br><br>
                         * CONTINUE TO REGISTER EITHER AS <strong>INDIVIDUALS (No T-Shirt)</strong> or <strong>TEAM (No T-Shirt)</strong>.<br></div> -->
@@ -264,7 +267,7 @@
             </div>
             <div id="left">
                 <h3>About us</h3>
-                <p>Eastern Iowa Miles for Myeloma is excited to announce the <span class="accent">4th Annual Miles for Myeloma Run/Walk</span> on <span class="accent">Sunday, September 27, 2015</span> at <span class="accent">Terry Trueblood Recreation Area</span> in Iowa City, Iowa.</p>
+                <p>Eastern Iowa Miles for Myeloma is excited to announce the <span class="accent">5th Annual Miles for Myeloma Run/Walk</span> on <span class="accent">Sunday, October 2, 2016</span> at <span class="accent">Terry Trueblood Recreation Area</span> in Iowa City, Iowa.</p>
                 <h3>Schedule</h3>
                 <ul>
                     <li>10 am - Same Day Registration and T-shirt pickup, coffee and snacks</li>
@@ -276,8 +279,8 @@
                 <p class="add-to-calendar">
                     <!-- Snippet -->
                     <div class="addthisevent">
-                        <span class="_start">09/27/2015 10:00:00 AM</span>
-                        <span class="_end">09/27/2015 01:00:00 PM</span>
+                        <span class="_start">10/02/2016 10:00:00 AM</span>
+                        <span class="_end">10/02/2016 01:00:00 PM</span>
                         <span class="_zonecode">11</span>
                         <span class="_summary">A 2 or 4 mile run/walk benefiting Multiple Myeloma research.</span>
                         <span class="_description">Miles for Myeloma is an annual 2 or 4 miles run/walk that raises funds and promotes awareness for Multiple Myeloma. It is organized by Eastern Iowa Miles for Myeloma.</span>
