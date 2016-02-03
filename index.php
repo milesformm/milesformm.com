@@ -2,9 +2,6 @@
     <head>
         <title>Eastern Iowa Miles for Myeloma</title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <script>
-          var raceDate = ;
-        </script>
         <style type="text/css">
             * { box-sizing: border-box }
             body {
@@ -230,11 +227,11 @@
                 <div id="right">
                     <div id="action-buttons" class="bubble with-margin-bottom">
                         <!-- <div class="tshirtnote">Note: T-shirt orders are no longer available.</div> -->
-                        <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2015/register" class="button">Register to run/walk!</a>
+                        <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="button">Register to run/walk!</a>
                         <!-- <div class="small-text"><br><strong>PLEASE NOTE-</strong> T-SHIRTS WILL NOT BE AVAILABLE FOR REGISTRATIONS MADE AFTER MIDNIGHT SEPTEMBER 25.<br><br>
                         * CONTINUE TO REGISTER EITHER AS <strong>INDIVIDUALS (No T-Shirt)</strong> or <strong>TEAM (No T-Shirt)</strong>.<br></div> -->
                         <span class="action-button-separator"><br><br> - OR -<br><br></span>
-                        <a href="http://support.themmrf.org/goto/MilesforMM2015" class="button">Donate to the cause.</a>
+                        <a href="http://support.themmrf.org/goto/MilesforMM2016" class="button">Donate to the cause.</a>
                         <div id="more-info" class="mini-section with-top-padding">
                             <!-- <hr>
                             <div id="new-this-year">
@@ -329,7 +326,7 @@
                             </ul>
                             <h5>Second, Create your team on the run/walk registration website.</h5>
                             <ol>
-                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2015/register" class="accent">Registration Page</a></li>
+                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li>
                                 <li>Go to <strong>Entry Type</strong> - Select "Team".</li>
                                 <li>Go to <strong>Team Entry</strong> - Select "Create Team" and select the type of team (with or without t-shirt).</li>
                                 <li>Go to <strong>Team Name</strong> - Enter the name of your team.</li>
@@ -358,7 +355,7 @@
                             </ul>
                             <h5>Second, register for the run/walk using the information from your team captain</h5>
                             <ol>
-                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2015/register" class="accent">Registration Page</a></li>
+                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li>
                                 <li>Go to <strong>Entry Type</strong> - Select "Team"</li>
                                 <li>Go to <strong>Team Entry</strong> - Select the type of team (with or without t-shirt) you will have.</li>
                                 <li>Go to <strong>Team Name</strong> - Select your team from the drop down box.</li>
@@ -378,7 +375,7 @@
                 <h3>Forms and Other Information</h3>
                 <ul>
                     <li>
-                        <a href="/milesformyeloma.2015.pledge.form.pdf">Pledge Form</a>
+                        <a href="/milesformyeloma.2016.pledge.form.pdf">Pledge Form</a>
                     </li>
                 <!--
                     <li>
