@@ -265,10 +265,11 @@
             <div id="left">
                 <h3>About us</h3>
                 <p>Eastern Iowa Miles for Myeloma is excited to announce the <span class="accent">5th Annual Miles for Myeloma Run/Walk</span> on <span class="accent">Sunday, October 2, 2016</span> at <span class="accent">Terry Trueblood Recreation Area</span> in Iowa City, Iowa.</p>
+                <p>Email us any time for more information at <a href="mailto:info@milesformm.com">info@milesformm.com</a>.
                 <h3>Schedule</h3>
                 <ul>
-                    <li>10 am - Same Day Registration and T-shirt pickup, coffee and snacks</li>
-                    <li>11 am - Run/Walk (2 or 4 mile)</li>
+                    <li>10 am &#8211; Same Day Registration and T-shirt pickup, coffee and snacks</li>
+                    <li>11 am &#8211; Run/Walk (2 or 4 mile)</li>
                 </ul>
                 <h3>Location</h3>
                 <p class="location-map"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d47706.83878154421!2d-91.54388431387528!3d41.641103491203765!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87e4402e2e9fb6df%3A0xe3c8206f23db1cb7!2sTerry+Trueblood+Recreation+Area!5e0!3m2!1sen!2sus!4v1401848578452" frameborder="0" style="border:0"></iframe></p>
@@ -297,7 +298,7 @@
             <div id="car-donation" class="add-mobile-space">
                 <a name="car-donation"></a>
                 <h3>Car Donation to Eastern Iowa Miles for Myeloma</h3>
-                <p>Donate your car, boat, truck, RV, Jet Ski or snowmobile to Eastern Iowa Miles for Myeloma and receive a tax deduction. This no cost, no hassle process begins when you contact our fundraising partner, Donation Line LLC at 877-227-7487. Make sure to ask for our extension 3101. Or you can click here <a href="http://www.donationline.com/newvehicle_donation_form.shtml?n=Iowa%20City%20Miles%20for%20Myeloma" class="accent">“Donate Car”</a> to donate online now.</p>
+                <p>Donate your car, boat, truck, RV, Jet Ski or snowmobile to Eastern Iowa Miles for Myeloma and receive a tax deduction. This no cost, no hassle process begins when you contact our fundraising partner, Donation Line LLC at 877-227-7487. Make sure to ask for our extension 3101. Or you can click here <a href="http://www.donationline.com/newvehicle_donation_form.shtml?n=Iowa%20City%20Miles%20for%20Myeloma" class="accent">"Donate Car"</a> to donate online now.</p>
             </div>
             <hr>
             <div id="employer-matching" class="add-mobile-space">
@@ -306,7 +307,7 @@
                 <p>Many companies offer a Matching Gifts program, whereby employers match contributions made by employees. This is a BENEFIT for the employees. Be sure to use it! </p>                
                 <p>Here is all you have to do:<p>
                 <ol>
-                    <li>The employee fills out the Matching Gift form from their employer — it will either be an online form or can be obtained through the employee's HR department</li>
+                    <li>The employee fills out the Matching Gift form from their employer it will either be an online form or can be obtained through the employee's HR department</li>
                     <li>After completing the form, either forward the confirmation to <a href="mailto:events@themmrf.org">events@themmrf.org</a> or if it is a form that needs to be processed by the MMRF, fax it to (203) 229-0572.  MMRF will handle from there.</li>
                     <li>To have the match credited to Eastern Iowa Miles For Myeloma please send an email to <a href="mailto:info@milesformm.com">info@milesformm.com</a>
                 </ol>
@@ -385,12 +386,17 @@
                         <a href="/milesformyeloma.2015.single.sided.flyer.pdf">Run/Walk Flyer</a>
                     </li>
                 -->
-                    <li>
+                    <!--<li>
                         <a href="/milesformyeloma.2015.single.sided.flyer.pdf">Sponsor Flyer</a>
+                    </li>-->
+                    <li>
+                        Sponsor flyer (Coming soon)
                     </li>
+                <!--
                     <li>
                         <a href="/milesformyeloma.2015.trifold.brochure.pdf">Trifold Informational Brochure</a>
                     </li>
+                -->
                 </ul>
             </div>
             <div id="footer">
