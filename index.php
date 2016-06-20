@@ -386,12 +386,12 @@
                         <a href="/milesformyeloma.2015.single.sided.flyer.pdf">Run/Walk Flyer</a>
                     </li>
                 -->
-                    <!--<li>
-                        <a href="/milesformyeloma.2015.single.sided.flyer.pdf">Sponsor Flyer</a>
-                    </li>-->
                     <li>
-                        Sponsor flyer (Coming soon)
+                        <a href="/milesformyeloma.2016.single.sided.flyer.pdf">Sponsor Flyer</a>
                     </li>
+                    <!--<li>
+                        Sponsor flyer (Coming soon)
+                    </li>-->
                 <!--
                     <li>
                         <a href="/milesformyeloma.2015.trifold.brochure.pdf">Trifold Informational Brochure</a>
