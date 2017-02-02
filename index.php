@@ -58,6 +58,23 @@
                 border-top-color: #f05811;
                 background: #f05811;
             }
+            .button.button-smaller {
+              font-size: 15px;
+            }
+            .button.button-disabled {
+              background: #ccc;
+              color: #4f4f4f;
+              border: 0;
+              box-shadow: none;
+              text-shadow: none;
+              cursor: not-allowed;
+            }
+            .button.button-disabled {
+              background: #ccc;
+            }
+            .text-disabled {
+              color: #aaa;
+            }
 
             #container { max-width: 780px; margin: 0 auto;  }
             #content { position: relative; }
@@ -69,11 +86,11 @@
                 #right { width: 300px; height: 450px; position: absolute; top:0; right:0; }
                 .bubble {
                     background: #f0ede5;
-                    text-align: center; 
-                    font-weight: bold; 
-                    border: 0px solid #ff6600; 
+                    text-align: center;
+                    font-weight: bold;
+                    border: 0px solid #ff6600;
                     border-radius: 12px;
-                    padding-top:25px; 
+                    padding-top:25px;
                     padding-bottom:25px;
                 }
                 .location-map {
@@ -101,9 +118,9 @@
                 .bubble {
                     background: #f0ede5;
                     text-align: center;
-                    border-radius: 0px; 
-                    font-weight: bold; 
-                    border: 0px solid #ff6600; 
+                    border-radius: 0px;
+                    font-weight: bold;
+                    border: 0px solid #ff6600;
                 }
                 .location-map {
                     width: 100%;
@@ -114,7 +131,7 @@
                     height: 300px;
                 }
                 #action-buttons {
-                    background-color: transparent; 
+                    background-color: transparent;
                 }
                 #action-buttons a.button {
                     display:block;
@@ -153,9 +170,9 @@
                 margin-bottom: 30px;
             }
             .mini-section {
-                padding: 0 30px 0 30px; 
-                text-align: left; 
-                font-size: 13px; 
+                padding: 0 30px 0 30px;
+                text-align: left;
+                font-size: 13px;
                 font-weight: normal;
             }
             .mini-section.with-top-padding {
@@ -165,10 +182,10 @@
             hr {
                 border: 0;
                 height: 1px;
-                background-image: -webkit-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0)); 
-                background-image:    -moz-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0)); 
-                background-image:     -ms-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0)); 
-                background-image:      -o-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0)); 
+                background-image: -webkit-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0));
+                background-image:    -moz-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0));
+                background-image:     -ms-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0));
+                background-image:      -o-linear-gradient(left, rgba(255,102,0,0), rgba(255,102,0,0.75), rgba(255,102,0,0));
             }
             #new-this-year{
                 padding-top:4px;
@@ -227,7 +244,8 @@
                 <div id="right">
                     <div id="action-buttons" class="bubble with-margin-bottom">
                         <!-- <div class="tshirtnote">Note: T-shirt orders are no longer available.</div> -->
-                        <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="button">Register to run/walk!</a>
+                        <!-- <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="button">Register to run/walk!</a> -->
+                        <a href="#" class="button button-disabled button-smaller">Registration coming soon!</a>
                         <!-- <div class="small-text"><br><strong>PLEASE NOTE-</strong> T-SHIRTS WILL NOT BE AVAILABLE FOR REGISTRATIONS MADE AFTER MIDNIGHT SEPTEMBER 25.<br><br>
                         * CONTINUE TO REGISTER EITHER AS <strong>INDIVIDUALS (No T-Shirt)</strong> or <strong>TEAM (No T-Shirt)</strong>.<br></div> -->
                         <span class="action-button-separator"><br><br> - OR -<br><br></span>
@@ -264,7 +282,7 @@
             </div>
             <div id="left">
                 <h3>About us</h3>
-                <p>Eastern Iowa Miles for Myeloma is excited to announce the <span class="accent">5th Annual Miles for Myeloma Run/Walk</span> on <span class="accent">Sunday, October 2, 2016</span> at <span class="accent">Terry Trueblood Recreation Area</span> in Iowa City, Iowa.</p>
+                <p>Eastern Iowa Miles for Myeloma is excited to announce the <span class="accent">6th Annual Miles for Myeloma Run/Walk</span> on <span class="accent">Sunday, October 1, 2017</span> at <span class="accent">Terry Trueblood Recreation Area</span> in Iowa City, Iowa.</p>
                 <p>Email us any time for more information at <a href="mailto:info@milesformm.com">info@milesformm.com</a>.
                 <h3>Schedule</h3>
                 <ul>
@@ -277,8 +295,8 @@
                 <p class="add-to-calendar">
                     <!-- Snippet -->
                     <div class="addthisevent">
-                        <span class="_start">10/02/2016 10:00:00 AM</span>
-                        <span class="_end">10/02/2016 01:00:00 PM</span>
+                        <span class="_start">10/01/2017 10:00:00 AM</span>
+                        <span class="_end">10/01/2017 01:00:00 PM</span>
                         <span class="_zonecode">11</span>
                         <span class="_summary">A 2 or 4 mile run/walk benefiting Multiple Myeloma research.</span>
                         <span class="_description">Miles for Myeloma is an annual 2 or 4 miles run/walk that raises funds and promotes awareness for Multiple Myeloma. It is organized by Eastern Iowa Miles for Myeloma.</span>
@@ -293,7 +311,7 @@
             <div id="help-collect" class="add-mobile-space">
                 <h3>Help us collect donations</h3>
                 <p>We have forms to help you gather donations on behalf of Miles for Myeloma. Check out our <a href="#forms" class="accent">forms</a> section for more information.</p>
-            </div>                
+            </div>
             <hr>
             <div id="car-donation" class="add-mobile-space">
                 <a name="car-donation"></a>
@@ -304,7 +322,7 @@
             <div id="employer-matching" class="add-mobile-space">
                 <a name="employer-matching"></a>
                 <h3>Matching Gifts</h3>
-                <p>Many companies offer a Matching Gifts program, whereby employers match contributions made by employees. This is a BENEFIT for the employees. Be sure to use it! </p>                
+                <p>Many companies offer a Matching Gifts program, whereby employers match contributions made by employees. This is a BENEFIT for the employees. Be sure to use it! </p>
                 <p>Here is all you have to do:<p>
                 <ol>
                     <li>The employee fills out the Matching Gift form from their employer it will either be an online form or can be obtained through the employee's HR department</li>
@@ -327,7 +345,8 @@
                             </ul>
                             <h5>Second, Create your team on the run/walk registration website.</h5>
                             <ol>
-                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li>
+                                <!-- <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li> -->
+                                <li>Once registration opens, go to the Eastern Iowa Miles for Myeloma <span class="text-disabled">Registration Page (registration coming soon)</span></li>
                                 <li>Go to <strong>Entry Type</strong> - Select "Team".</li>
                                 <li>Go to <strong>Team Entry</strong> - Select "Create Team" and select the type of team (with or without t-shirt).</li>
                                 <li>Go to <strong>Team Name</strong> - Enter the name of your team.</li>
@@ -356,7 +375,8 @@
                             </ul>
                             <h5>Second, register for the run/walk using the information from your team captain</h5>
                             <ol>
-                                <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li>
+                                <!-- <li>Go to the Eastern Iowa Miles for Myeloma <a href="https://www.raceentry.com/races/eastern-iowa-miles-for-myeloma/2016/register" class="accent">Registration Page</a></li> -->
+                                <li>Once registration opens, go to the Eastern Iowa Miles for Myeloma <span class="text-disabled">Registration Page (registration coming soon)</span></li>
                                 <li>Go to <strong>Entry Type</strong> - Select "Team"</li>
                                 <li>Go to <strong>Team Entry</strong> - Select the type of team (with or without t-shirt) you will have.</li>
                                 <li>Go to <strong>Team Name</strong> - Select your team from the drop down box.</li>
@@ -376,7 +396,7 @@
                 <h3>Forms and Other Information</h3>
                 <ul>
                     <li>
-                        <a href="/milesformyeloma.2016.pledge.form.pdf">Pledge Form</a>
+                        <a href="/milesformyeloma.2017.pledge.form.pdf">Pledge Form</a>
                     </li>
                 <!--
                     <li>
