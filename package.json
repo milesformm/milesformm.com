@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "node src preinstall",
+    "preinstall": "jimthedev-scripts preinstall",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
     "build": "next build",
@@ -24,5 +24,8 @@
   },
   "now": {
     "alias": "milesformm.com"
+  },
+  "devDependencies": {
+    "jimthedev-scripts": "1.0.3"
   }
 }
