@@ -4,11 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "jimthedev-scripts preinstall",
+    "preinstall": "npx github:jimthedev/use-yarn",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
-    "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "build": "next build"
   },
   "engines": {
     "node": ">=8",
@@ -18,14 +18,15 @@
   "author": "Jim Cummins <jimthedev@gmail.com> (http://github.com/jimthedev)",
   "license": "MIT",
   "dependencies": {
-    "next": "^4.2.3",
+    "next": "^5.0.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0"
   },
   "now": {
-    "alias": "milesformm.com"
+    "alias": "milesformm.com",
+    "env": {
+      "DISABLE_YARN_CHECK": "true"
+    }
   },
-  "devDependencies": {
-    "jimthedev-scripts": "1.0.3"
-  }
+  "devDependencies": {}
 }
