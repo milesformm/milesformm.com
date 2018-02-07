@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "preinstall": "npx github:jimthedev/use-yarn",
+    "preinstall": "npx use-yarn",
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "next",
     "start": "next start",
@@ -23,10 +23,7 @@
     "react-dom": "^16.2.0"
   },
   "now": {
-    "alias": "milesformm.com",
-    "env": {
-      "DISABLE_YARN_CHECK": "true"
-    }
+    "alias": "milesformm.com"
   },
   "devDependencies": {}
 }
