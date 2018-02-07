@@ -27,5 +27,5 @@ The website is available at [https://milesformm.com](https://milesformm.com).
 
 1. Run `now` and you will be given a url for your deployment.
 1. If everything looks good at the url provided by Zeit Now then run `now alias <URL> milesformm.com`
-1. Clean up any unaliased deployments with `npx now-puge`
+1. Clean up any unaliased deployments with `npx now-purge`
 
