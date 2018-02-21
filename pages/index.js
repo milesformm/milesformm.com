@@ -76,12 +76,12 @@ export default () => (
       <p>
         After a one year hiatus, the Eastern Iowa Miles for Myeloma Walk/Run
         will return <strong>Sunday, October 14, 2018</strong>. Put it on your
-        calendar!
+        calendar! To register, <a href="https://independent.themmrf.org/EIMM">click here</a>.
       </p>
 
       <p>
         Annie Blaser will relight the torch and lead the organization of next
-        year's event. Keep your eyes open for more news in early in the new
+        year's event. Keep your eyes open for more news early in the new
         year!
       </p>
 
