@@ -3,7 +3,7 @@ import HorizontalRule from "../components/HorizontalRule";
 export default () => (
   <div className="root">
     <Head>
-      <title>Eastern Iowa Miles For Myeloma</title>
+      <title>Iowa Miles For Myeloma</title>
       <meta
         name="viewport"
         content="initial-scale=1.0, width=device-width"
@@ -13,26 +13,26 @@ export default () => (
 
       <meta
         name="description"
-        content="The annual Eastern Iowa Miles for Myeloma Walk Run"
+        content="The annual Iowa Miles for Myeloma Walk Run"
       />
 
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:site" content="@milesformyeloma" />
-      <meta name="twitter:title" content="Eastern Iowa Miles for Myeloma" />
+      <meta name="twitter:title" content="Iowa Miles for Myeloma" />
       <meta
         name="twitter:description"
-        content="The annual Eastern Iowa Miles for Myeloma Walk Run"
+        content="The annual Iowa Miles for Myeloma Walk Run"
       />
       <meta name="twitter:creator" content="@milesformyeloma" />
 
       <meta name="twitter:image" content="https://pbs.twimg.com/profile_images/435250169114656768/GOb8PDEE_400x400.jpeg" />
 
-      <meta property="og:title" content="Eastern Iowa Miles for Myeloma" />
+      <meta property="og:title" content="Iowa Miles for Myeloma" />
       <meta property="og:type" content="article" />
       <meta property="og:url" content="http://www.milesformm.com/" />
       <meta property="og:image" content="https://pbs.twimg.com/profile_images/435250169114656768/GOb8PDEE_400x400.jpeg" />
-      <meta property="og:description" content="The annual Eastern Iowa Miles for Myeloma Walk Run" />
-      <meta property="og:site_name" content="Eastern Iowa Miles for Myeloma" />
+      <meta property="og:description" content="The annual Iowa Miles for Myeloma Walk Run" />
+      <meta property="og:site_name" content="Iowa Miles for Myeloma" />
     </Head>
     <style global jsx>{`
       * {
@@ -67,24 +67,20 @@ export default () => (
     `}</style>
     <img
       className="logo-image"
-      src="/static/mileslogo.jpg"
-      alt="Eastern Iowa Miles for Myeloma"
+      src="/static/iowamiles.jpg"
+      alt="Iowa Miles for Myeloma"
     />
     <article>
-      <h3>The EIMM Walk is Back!</h3>
-
-      <p>
-        After a one year hiatus, the Eastern Iowa Miles for Myeloma Walk/Run
-        will return <strong>Sunday, October 14, 2018</strong>. Put it on your
-        calendar! To register, <a href="https://independent.themmrf.org/EIMM">click here</a>.
-      </p>
-
-      <p>
-        Annie Blaser will relight the torch and lead the organization of next
-        year's event. Keep your eyes open for more news early in the new
-        year!
-      </p>
-
+     <h3>New name, same great event!</h3>
+     <p>
+        Eastern Iowa Miles for Myeloma is now <strong>Iowa Miles for Myeloma</strong>! This name better represented the community we encompass, with families honored and participating from all over Iowa.
+     </p>
+     <p>
+     We are thrilled to announce that the 2019 Iowa Miles for Myeloma walk has been scheduled for <strong>September 22, 2019</strong>, again at Terry Trueblood Recreation Area in Iowa City. This will be our 7th event and we would love to have you with us!
+     </p>
+     <p>
+     <a href="https://independent.themmrf.org/IMM">Register for the walk</a>
+     </p>
       <p>
         Follow all the activities at our Facebook site{" "}
         <a href="https://www.facebook.com/MilesForMM">
